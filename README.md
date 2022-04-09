@@ -1,4 +1,3 @@
-
 ![](/assets/image_Sweden.jpg)
 ## **Hi, I'm Daniel**
 
