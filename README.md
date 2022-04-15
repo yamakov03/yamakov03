@@ -1,4 +1,6 @@
-![](/assets/image_Sweden.jpg)
-## **Hi, I'm Daniel**
+![](/assets/backdrop.jpg)
+## Hey, welcome to my Github page!
+# I'm Daniel.
 
-Feel free to message me or comment on any of my projects if you have any good ideas.
+I'm a 2nd year student studying Electrical and Computer Engineering at UT Austin.
+I have a passion for software 💻, web development 🌐, and learning 🔥!
