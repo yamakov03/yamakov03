@@ -1,4 +1,3 @@
-![](/assets/desc.jpg)
-## Hey, welcome to my Github page!
+## Welcome to my Github 👋
 
-I'm a 2nd year student studying Electrical and Computer Engineering at UT Austin.
+I'm a 2nd year student studying Electrical and Computer Engineering at UT Austin!
