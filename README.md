@@ -1,3 +1,3 @@
-## Welcome to my Github!
+## Hey!
 
-I'm a 3rd year student studying Electrical and Computer Engineering at UT Austin
+I'm a 3rd year student completing my BS/MS in Electrical and Computer Engineering at UT Austin.
